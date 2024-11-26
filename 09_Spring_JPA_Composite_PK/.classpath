@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="09_Spring_JPA_Composite_PK/src/main/java"/>
+	<classpathentry kind="src" path="09_Spring_JPA_Composite_PK/src/test/java"/>
+	<classpathentry kind="output" path="09_Spring_JPA_Composite_PK/target/classes"/>
+</classpath>
